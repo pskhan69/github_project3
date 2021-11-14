@@ -15,5 +15,5 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 2. The following files helps to understand the Git key terms:
    * Git-KeyTerms.pdf
 
-### Credits
+### Credits goes for:
 * [Git documentation is very usefull.](https://git-scm.com/doc)
